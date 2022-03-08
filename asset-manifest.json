@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Imranyy/Movie-site.git/static/css/main.6fc22951.css",
+    "main.js": "/Imranyy/Movie-site.git/static/js/main.d827e36a.js",
+    "index.html": "/Imranyy/Movie-site.git/index.html",
+    "main.6fc22951.css.map": "/Imranyy/Movie-site.git/static/css/main.6fc22951.css.map",
+    "main.d827e36a.js.map": "/Imranyy/Movie-site.git/static/js/main.d827e36a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc22951.css",
+    "static/js/main.d827e36a.js"
+  ]
+}
