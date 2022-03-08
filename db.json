@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "movie_name": "silicon valley",
+      "movie_review": "kjdiioo",
+      "reviewer": "imran",
+      "id": 2
+    },
+    {
+      "movie_name": "am frankie",
+      "movie_review": "a scifi tv show . i show on nick junior its amazing to watch ",
+      "reviewer": "imran",
+      "id": 3
+    },
+    {
+      "movie_name": "silicon valley",
+      "movie_review": "dsd",
+      "reviewer": "j ds",
+      "id": 4
+    }
+  ],
+  "profile": [
+    {
+      "email": "imranmat254@gmail.com",
+      "feedback": "this was a good idea ",
+      "person": "imran",
+      "id": 1
+    },
+    {
+      "email": "imranmat254@gmail.com",
+      "feedback": "i know this",
+      "person": "imran",
+      "id": 2
+    },
+    {
+      "email": "imranmat254@gmail.com",
+      "feedback": "injbdbdhbhjvdhvd",
+      "person": "imran",
+      "id": 3
+    }
+  ]
+}

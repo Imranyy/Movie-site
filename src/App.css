@@ -1,0 +1,96 @@
+
+.container:hover{
+  box-shadow:3px 5px 5px 2px;
+}
+button {
+  font-family: cursive;
+  color:#fafafa;
+  margin-top: 50px;
+  background-color: #282c34;
+  font-size: large;
+  border: none;
+  border-radius: 12px;
+  height: 40px;
+  width: 150px;
+  cursor: pointer;
+}
+button:hover{
+  color:rgb(171, 250, 168);
+}
+input{
+  font-family: cursive;
+  margin-top: 10px;
+  text-align: center;
+  height:30px;
+  border-radius: 10px;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+textarea{
+  font-family: cursive;
+  margin-top: 10px;
+  text-align: center;
+  height:30px;
+  border-radius: 10px;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+label{
+  font-family: cursive;
+  margin-top: 5px;
+  margin-left: 0;
+  display: block;
+}
+button.addbtn{
+  color: azure;
+  box-shadow: 3px 2px 3px 2px rgb(20, 22, 20);
+  cursor: pointer;
+}
+.addbtn:hover{
+  color: rgb(171, 250, 168);
+}
+.land{
+  margin-top: 10%;
+  margin-left: 25%;
+  width: 700px;
+}
+.blog-preview{
+   padding: 10px 16px;
+   margin: 20px 0;
+   border-bottom: 1px solid #fafafa;
+   border-radius: 12px;
+   cursor: pointer;
+}
+.blog-preview:hover{
+    box-shadow: 1px 3px 5px rgb(30, 116, 30);
+}
+.blog-preview h2{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.blog-preview a{
+  text-decoration: none;
+  color: rgb(26, 95, 8);
+}
+.blog-detail{
+  margin-top: 10%;
+  margin-left: 25%;
+  width: 700px;
+}
+.blog-detail h2{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+.blog-detail div{
+  margin: 20px 0;
+}
+.blog-detail button{
+  background-color: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
