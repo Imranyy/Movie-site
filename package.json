@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://github.com/Imranyy/Movie-site.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +17,8 @@
   },
   "scripts": {
     "json-server": "react-scripts watch db.json",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
